@@ -1,0 +1,47 @@
+body {
+    display: flex;
+    justify-content: left;
+    flex-direction: column;
+    padding: 5%;
+    padding-top: 3.5%;
+    background: rgb(166, 166, 166);
+    background: radial-gradient(brown, purple);
+    font-family: 'Helvetica', sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-bottom: 2%;
+    color: #262523;
+  }
+  
+  h2 {
+    text-align: center;
+    color: #262523;
+  }
+  
+  h3 {
+    text-align: center;
+    color: #262523;
+  }
+  
+  .area-jogo {
+    display: flex;
+    justify-content: left;
+    flex-direction: column;
+    background-color: #ffffff;
+    width: 50%;
+    border-radius: 50px;
+    margin-left: 25%;
+    margin-left: 25%;
+    margin-bottom: 2%;
+  }
+  
+  button {
+    width: 40%;
+    padding: 1%;
+    margin-left: 30%;
+    margin-left: 30%;
+    border-radius: 20px;
+    font-family: 'Helvetica', cursive;
+  }
